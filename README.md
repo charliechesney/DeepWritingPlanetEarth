@@ -11,7 +11,9 @@ https://subslikescript.com/series/Planet_Earth_II-5491994
 https://subslikescript.com/series/Planet_Earth-795176
 
 
-Alternate version for more variety and animal facts, use AnimalFacts.txt. Sources include the Planet Earth scripts plus:
+Alternate version for more variety and animal facts, use AnimalFacts.txt. Set Epochs to 30 and temparute to 0.4 for best results.
+
+Sources include the Planet Earth scripts plus:
 https://www.thefactsite.com/300-random-animal-facts/
 
 https://bestlifeonline.com/animal-facts/
